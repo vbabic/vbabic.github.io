@@ -11,7 +11,7 @@
 
 ## Collapsable menues
 
-<div style="background-color: 'pink'"> 
+<div style="background-color: pink"> 
 <details>
 <summary>This is the collapsable section 1 </summary>
 In this section you will find all of the materials that relate to the section 1
