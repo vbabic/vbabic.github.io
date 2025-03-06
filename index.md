@@ -11,7 +11,7 @@
 
 ## Collapsable menues
 
-<span style="background-color: 'pink'"> 
+<div style="background-color: 'pink'"> 
 <details>
 <summary>This is the collapsable section 1 </summary>
 In this section you will find all of the materials that relate to the section 1
@@ -58,4 +58,4 @@ In this section you will find all of the materials that relate to the section 1
 *or use html tag img, make sure it's accessible with the right alt attribute description*
 
 <quote>By <a href="//commons.wikimedia.org/wiki/User:David.Monniaux" title="User:David.Monniaux">David Monniaux</a>. Photo taken by myself with a cellular phone. Copyright © 2005 - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90708">Link</a></quote>
-</span>
+</div>
